@@ -16,7 +16,6 @@ def multi(a, b):
 def mod(a, b):
     return a % b
 
-
 print(add(10, 5))
 print(subtract(10, 5))
 print(div(10, 5))
