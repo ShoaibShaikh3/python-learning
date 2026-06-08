@@ -1,13 +1,13 @@
 #Day 1: Added calculator program
-def add(a,b)
+def add(a,b):
   return a+b
-def min(a,b)
+def min(a,b):
   return a-b
-def div(a,b)
+def div(a,b):
   return a/b
-def multi(a,b)
+def multi(a,b):
   return a*b
-def mod(a,b)
+def mod(a,b):
   return a%b
 
   print(add(10,5))
