@@ -1,21 +1,24 @@
-# Python Learning
-
-Welcome to my Python learning journey.
+# Day 1 - Functions
 
 ## Topics Covered
 
 - Functions
-- Strings
-- Lists
-- Tuples
-- Sets
-- Dictionaries
-- File Handling
-- OOP Concepts
+- Arguments
+- Return Statement
 
-## Goal
+## Programs
 
-To build strong Python fundamentals and become internship-ready through consistent practice and projects.
+1. Calculator
+2. Prime Number Check
+3. Factorial
+4. Fibonacci Series
+5. Palindrome Check
+
+## Key Learnings
+
+- Functions make code reusable.
+- Return sends values back to the caller.
+- Functions improve readability and maintenance.
 
 ## Author
 
