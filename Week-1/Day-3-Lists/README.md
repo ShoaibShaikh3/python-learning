@@ -25,3 +25,5 @@
 - Lists can store multiple values.
 - Lists support indexing and slicing.
 - Lists allow duplicate values.
+
+
