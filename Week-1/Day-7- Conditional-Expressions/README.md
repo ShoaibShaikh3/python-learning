@@ -28,6 +28,9 @@ Determines whether a year is a leap year.
 ### 5. Simple Login System
 Basic authentication using username and password.
 
+### 6. Spam or not message System
+It wil check Message is spam or not.
+
 ---
 
 ## 🚀 How to Run
